@@ -6,4 +6,4 @@ app=FastAPI()
 @app.get('/')
 def main():
 
-    return {"msg":"Hello World"}
+    return {"msg":"Hello"}
